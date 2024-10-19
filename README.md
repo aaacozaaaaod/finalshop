@@ -1,1 +1,1 @@
-Amaouage Clone, editing it into my own webshop
+html dont work, code webshop yourself as a test
